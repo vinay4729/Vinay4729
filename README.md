@@ -6,7 +6,7 @@
   <a href="https://github.com/vinay4729">
     <img src="https://img.shields.io/github/followers/vinay4729?label=Follow&style=social" />
   </a>
-  <a href="https://www.linkedin.com/in/vinay-kumar-nimmakayala">
+  <a href="https:www.linkedin.com/in/vinay-kumar-n-19a60b279">
     <img src="https://img.shields.io/badge/LinkedIn-Vinay%20Kumar-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>

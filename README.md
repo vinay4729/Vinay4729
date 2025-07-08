@@ -6,7 +6,7 @@
   <a href="https://github.com/vinay4729">
     <img src="https://img.shields.io/github/followers/vinay4729?label=Follow&style=social" />
   </a>
-  <a href="https://www.linkedin.com/in/vinay-kumar-n-19a60b279">
+  <a href="https://www.linkedin.com/in/vinay-kumar-nimmakayala">
     <img src="https://img.shields.io/badge/LinkedIn-Vinay%20Kumar-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
@@ -18,8 +18,8 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/vinay4729](https://github.com/vinay4729)  
-- 💬 Ask me about **DevOps, CI/CD, Cloud Security, Kubernetes, Terraform**  
-- 📫 How to reach me: **vinaykumar040991@gmail.com**
+- 💬 Ask me about **CI/CD, Kubernetes, Terraform, Cloud Infra, DevSecOps**  
+- 📫 Reach me at **vinaykumar040991@gmail.com**
 
 ---
 
@@ -32,35 +32,40 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">DevOps Tools & Technologies:</h3>
 <p align="left">
   <!-- Cloud Platforms -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/cloud-google/cloud-google-icon.svg" width="40" height="40"/>
 
-  <!-- CI/CD & DevOps -->
+  <!-- CI/CD -->
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/githubactions/githubactions-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" width="40" height="40"/>
 
-  <!-- Containerization & Orchestration -->
+  <!-- Containers -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="40" height="40"/>
 
-  <!-- Monitoring & Logging -->
+  <!-- Monitoring -->
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/M/microsoft-sentinel-logo-378DEB3D4E-seeklogo.com.png" width="40" height="40"/>
 
-  <!-- Security & DevSecOps -->
+  <!-- DevSecOps -->
+  <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/zaproxy/zaproxy-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/qualys/qualys-icon.svg" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Tenable_logo.png" width="40" height="40" alt="Nessus"/>
 
-  <!-- Languages & Scripting -->
+  <!-- Scripting -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/powershell/powershell-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
@@ -104,11 +109,8 @@
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
 
 🎤 Available for **Guest Sessions / Webinars**  
-🤝 Open to **Project Collaborations / DevSecOps Consulting**  
-💼 Offering **DevOps Mentoring & Security Automation Support**  
-📧 Let’s chat: [vinaykumar040991@gmail.com](mailto:vinaykumar040991@gmail.com)
+🤝 Open to **DevOps / Cloud / Security Projects**  
+💼 Offering **DevSecOps Mentorship & CI/CD Consulting**  
+📧 Reach me at: [vinaykumar040991@gmail.com](mailto:vinaykumar040991@gmail.com)
 
-> *"Helping teams build secure, scalable, and automated infrastructure in the cloud."*
-
-
-
+> _"Helping teams build secure, scalable, and automated infrastructure in the cloud."_

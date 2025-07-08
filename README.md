@@ -32,43 +32,26 @@
 
 ---
 
-<h3 align="left">DevOps Tools & Technologies:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Cloud Platforms -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/cloud-google/cloud-google-icon.svg" width="40" height="40"/>
-
-  <!-- CI/CD -->
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/githubactions/githubactions-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" width="40" height="40"/>
-
-  <!-- Containers -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="40" height="40"/>
-
-  <!-- Monitoring -->
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/M/microsoft-sentinel-logo-378DEB3D4E-seeklogo.com.png" width="40" height="40"/>
-
-  <!-- DevSecOps -->
-  <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/zaproxy/zaproxy-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/qualys/qualys-icon.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Tenable_logo.png" width="40" height="40" alt="Nessus"/>
-
-  <!-- Scripting -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/powershell/powershell-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
 </p>
 
 ---

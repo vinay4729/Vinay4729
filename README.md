@@ -54,14 +54,10 @@
   <!-- Monitoring & Logging -->
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/M/microsoft-sentinel-logo-378DEB3D4E-seeklogo.com.png" width="40" height="40" alt="Sentinel"/>
 
   <!-- Security & DevSecOps -->
-  <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/zaproxy/zaproxy-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/qualys/qualys-icon.svg" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Tenable_logo.png" width="40" height="40" alt="Nessus"/>
 
   <!-- Languages & Scripting -->
